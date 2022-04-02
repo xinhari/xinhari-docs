@@ -20,6 +20,9 @@ jobs:
         with:
           node-version: '16.x'
 
+      - name: Install SHX Package
+        run: npm install shx --save-dev
+
       - name: Build
         run: npm run build
 
