@@ -1,6 +1,6 @@
 ---
 title : "A Perfectionist Go Microservices Framework"
-description: "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
+description: "With Xinhari, developing your modern microservice easly with all xinhari tools and kubernetes environment."
 lead: "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
 date: 2020-10-06T08:47:36+00:00
 lastmod: 2020-10-06T08:47:36+00:00
