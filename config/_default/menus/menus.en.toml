@@ -45,6 +45,12 @@
   weight = 20
 
 [[main]]
+  name = "Contributors"
+  weight = 45
+  identifier = "contributors"
+  url = "/contributors/"
+
+[[main]]
   name = "Get Started"
   weight = 30
   identifier = "get-started"
@@ -63,13 +69,6 @@
   identifier = "tutorial"
   url = "/tutorial/introduction/"
   parent = "get-started"
-
-[[main]]
-  name = "Contributors"
-  weight = 45
-  identifier = "contributors"
-  url = "/contributors/"
-
 
 [[social]]
   name = "GitHub"
